@@ -166,9 +166,9 @@ body {
   font-size: 16px;
   line-height: 1.19;
   letter-spacing: 0.03em;
-
-  
+    
 /* ----------FOOTER----------  */
+
 .footer {
   background-color: var(--accent-backgraund-color);
 }
@@ -214,11 +214,3 @@ body {
   color: var(--focus-font-color);
 }
 
-.filtr-list-btn {font-family: inherit;
-font-weight: 500;
-font-size: 16px;
-line-height: 1.62;
-text-align: center;
-letter-spacing: 0.03em;
-color: #FFFFFF;
-}
